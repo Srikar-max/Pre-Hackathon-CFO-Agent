@@ -1,0 +1,10 @@
+# requirements.txt
+
+fastapi
+uvicorn[standard]
+pandas
+google-generativeai
+python-dotenv
+requests
+streamlit
+plotly
